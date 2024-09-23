@@ -28,6 +28,8 @@ while not game_over:
             game_over=True
             print("YOU LOST !!!")
             print(f"WORD : {generated_word}")
+            print(f"WORD : {generated_word}")
+
 
 
 
